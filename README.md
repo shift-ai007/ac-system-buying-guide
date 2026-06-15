@@ -79,7 +79,7 @@ The jump from 15 to 20 SEER2 saves roughly $8,100 over 15 years. If the higher-e
 - **Two stage**: High and low. Better humidity control, 10-15% more efficient.
 - **Variable speed (inverter)**: Continuously adjusts output from 25-100%. Best efficiency, best humidity control, quietest operation. Found in 18+ SEER2 units.
 
-In South Florida, variable speed is the strongest recommendation for homes over 1,500 sq ft.
+In South Florida, variable speed is the strongest recommendation for homes over 1,500 sq ft. For the full engineering picture — sensible vs. latent load, runtime fractions, and how to read a quote critically — see the [Compressor Staging Deep Dive](docs/compressor-staging-deep-dive.md). When in doubt, a [professional AC installation](https://ac-repair.today/services/ac-installation/) assessment with a proper Manual J calculation is the only reliable way to match staging to your home.
 
 ---
 
@@ -250,6 +250,7 @@ Florida Power & Light offers rebates for high-efficiency equipment:
 
 ## Additional Resources
 
+- [Compressor Staging Deep Dive](docs/compressor-staging-deep-dive.md) — Single-stage vs. two-stage vs. variable-speed, and why staging governs humidity control
 - [Emergency AC Repair Services](https://ac-repair.today/services/ac-repair/) — When your current system fails and you need immediate help
 - [Duct Cleaning and Inspection](https://ac-repair.today/services/duct-cleaning/) — Ensure your ductwork supports your new system
 - [Indoor Air Quality Solutions](https://ac-repair.today/services/indoor-air-quality/) — Complementary IAQ upgrades for your new installation
