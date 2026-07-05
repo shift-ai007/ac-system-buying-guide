@@ -251,6 +251,8 @@ Florida Power & Light offers rebates for high-efficiency equipment:
 ## Additional Resources
 
 - [Compressor Staging Deep Dive](docs/compressor-staging-deep-dive.md) — Single-stage vs. two-stage vs. variable-speed, and why staging governs humidity control
+- [Manual J Load Calculation Explained](docs/load-calculation-basics.md) — Why square-foot rules of thumb fail in South Florida, how proper load calculations work, and what to ask your contractor before buying
+- [Financing Your AC Replacement](docs/financing-hvac-replacement.md) — Federal tax credits, FPL rebates, manufacturer promotions, and financing options that can cut your effective cost by 20-40%
 - [Emergency AC Repair Services](https://ac-repair.today/services/ac-repair/) — When your current system fails and you need immediate help
 - [Duct Cleaning and Inspection](https://ac-repair.today/services/duct-cleaning/) — Ensure your ductwork supports your new system
 - [Indoor Air Quality Solutions](https://ac-repair.today/services/indoor-air-quality/) — Complementary IAQ upgrades for your new installation
