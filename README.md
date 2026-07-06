@@ -161,6 +161,12 @@ Florida's #1 indoor air quality threat. Mold spores are omnipresent outdoors and
 
 ---
 
+## When to Replace vs. Repair
+
+Every South Florida homeowner faces this decision: a major repair comes in at $1,500+ on a 12-year-old system, and you need the right framework to decide. Repairing a system past its useful life costs more in the long run than replacing it, but replacing a unit with years of life left is just as wasteful.
+
+- **[AC Repair vs. Replace: Decision Framework](docs/repair-vs-replace-decision-framework.md)** — The 50% rule (repair cost vs. replacement cost at different system ages), which components are always worth repairing and which signal it's time to replace, how South Florida's climate accelerates the timeline, the true cost comparison including energy savings and tax credits, and a contractor screener to find someone who gives honest advice rather than a sales pitch. Includes a season-by-season risk calendar and the hurricane-replacement timing question.
+
 ## Getting Quotes Right
 
 ### What Every Quote Should Include
@@ -250,6 +256,7 @@ Florida Power & Light offers rebates for high-efficiency equipment:
 
 ## Additional Resources
 
+- [AC Repair vs. Replace: Decision Framework](docs/repair-vs-replace-decision-framework.md) — The 50% rule, age benchmarks, and a decision tree for South Florida homeowners deciding whether to repair or replace
 - [Compressor Staging Deep Dive](docs/compressor-staging-deep-dive.md) — Single-stage vs. two-stage vs. variable-speed, and why staging governs humidity control
 - [Manual J Load Calculation Explained](docs/load-calculation-basics.md) — Why square-foot rules of thumb fail in South Florida, how proper load calculations work, and what to ask your contractor before buying
 - [Financing Your AC Replacement](docs/financing-hvac-replacement.md) — Federal tax credits, FPL rebates, manufacturer promotions, and financing options that can cut your effective cost by 20-40%
